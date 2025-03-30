@@ -1,7 +1,3 @@
-# warp.sh
-
-By using this you agree to Cloudflare's ToS: <https://www.cloudflare.com/application/terms/>  
-
 ## Quick Guide #1
 
 Make sure to have `jq`, `curl`, and `wireguard-tools` (for `wg genkey` and `wg pubkey`) installed
